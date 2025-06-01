@@ -32,7 +32,7 @@ if option == "Genre":
 
 # --- Book-based Recommendation ---
 else:
-    title_input = st.text_input("Enter a book title (partial or full)", "")
+    title_input = st.text_input("Enter a book title ", "")
 
     if title_input:
         matching_titles = df[df['Title'].str.contains(title_input, case=False, na=False)]
