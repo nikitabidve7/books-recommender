@@ -1,4 +1,4 @@
-# Book Recommender System
+#  Book Recommender System
 
 A machine learning-based Book Recommender System developed using Python and Streamlit. The application recommends books based on user selection and is containerized using Docker and deployed on AWS EC2.
 
@@ -25,7 +25,7 @@ This project demonstrates:
 
 ---
 
-##  Technologies Used
+## 🛠️ Technologies Used
 
 ### Programming Language
 
@@ -47,7 +47,9 @@ This project demonstrates:
 
 ---
 
-Project Structure
+## 📂 Project Structure
+
+```text
 Book-Recommender/
 │
 ├── app.py
@@ -55,12 +57,12 @@ Book-Recommender/
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
-
+```
 
 ---
 
 
-## 🐳 Docker Deployment
+##  Docker Deployment
 
 ### Build Docker Image
 
@@ -82,7 +84,7 @@ http://localhost:8501
 
 ---
 
-## ☁️ AWS Deployment
+##  AWS Deployment
 
 The application is deployed on AWS EC2 using Docker.
 
@@ -105,7 +107,7 @@ docker pull nikitabidve/book-recommender:v1
 
 ---
 
-## 🎯 Features
+##  Features
 
 * User-friendly interface
 * Book recommendation engine
@@ -116,9 +118,8 @@ docker pull nikitabidve/book-recommender:v1
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
-* Content-based recommendation system
 * Collaborative filtering
 * User authentication
 * Personalized recommendations
@@ -129,17 +130,24 @@ docker pull nikitabidve/book-recommender:v1
 
 ---
 
-##  Developer
+## 👩‍💻 Developer
 
 **Nikita Bidve**
 
 B.Tech CSE (AIML)
 
 LinkedIn:
-http://www.linkedin.com/in/nikita-bidve-856450280
+[www.linkedin.com/in/nikita-bidve-856450280](http://www.linkedin.com/in/nikita-bidve-856450280)
 
 Email:
-nikitabidve7@gmail.com
+[nikitabidve7@gmail.com](mailto:nikitabidve7@gmail.com)
+
+---
+
+## 📄 License
+
+This project is developed for educational and learning purposes.
+
 
 ---
 
