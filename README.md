@@ -47,9 +47,7 @@ This project demonstrates:
 
 ---
 
-##  Project Structure
-
-
+Project Structure
 Book-Recommender/
 │
 ├── app.py
